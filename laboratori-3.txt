@@ -1,2 +1,1 @@
-lab03 --> Git avanzado
-/usr/bin/bash: wq: command not found
+lab03 --> Git avanzado : 4C24
