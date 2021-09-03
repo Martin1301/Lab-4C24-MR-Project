@@ -1,2 +1,2 @@
 lab03 --> Git avanzado
-/usr/bin/bash: wq: command not found
+Nueva linea
